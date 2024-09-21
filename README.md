@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I am  <a href="https://abhijeet-chatterjee.netlify.app/" target="_blank">Apoorv Pundir</a>  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
+<h1 align="center">Hi there 👋 I am  Apoorv Pundir  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/apoorv790/count.svg" />
